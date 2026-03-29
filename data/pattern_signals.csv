@@ -1,0 +1,67 @@
+ticker,pattern_name,signal,pattern_date,key_values,strength,current_price
+INFY,RSI Divergence (Bullish),bullish,2026-03-19,"{""price_low_1"": 1248.3, ""price_low_2"": 1220.8, ""rsi_low_1"": 25.2, ""rsi_low_2"": 34.27}",0.448,1269.7
+INFY,Support Bounce,bullish,2026-03-20,"{""support_20d"": 1215.1, ""close"": 1255.9, ""distance_to_support_pct"": 1.16}",0.571,1269.7
+TCS,Support Bounce,bullish,2026-03-27,"{""support_20d"": 2348.0, ""close"": 2389.8, ""distance_to_support_pct"": 1.58}",0.298,2389.8
+HDFCBANK,RSI Divergence (Bullish),bullish,2026-03-19,"{""price_low_1"": 840.7, ""price_low_2"": 798.2, ""rsi_low_1"": 16.44, ""rsi_low_2"": 23.96}",0.63,756.2
+HDFCBANK,Support Bounce,bullish,2026-03-24,"{""support_20d"": 741.05, ""close"": 764.9, ""distance_to_support_pct"": 0.9}",0.607,756.2
+ICICIBANK,RSI Divergence (Bullish),bullish,2026-03-19,"{""price_low_1"": 1278.4, ""price_low_2"": 1250.1, ""rsi_low_1"": 16.02, ""rsi_low_2"": 23.38}",0.398,1233.8
+ICICIBANK,Support Bounce,bullish,2026-03-24,"{""support_20d"": 1218.1, ""close"": 1251.2, ""distance_to_support_pct"": 0.46}",0.634,1233.8
+LT,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 3439.0, ""price_low_2"": 3342.4, ""rsi_low_1"": 18.09, ""rsi_low_2"": 24.9}",0.429,3564.1
+LT,Support Bounce,bullish,2026-03-20,"{""support_20d"": 3396.6, ""close"": 3434.8, ""distance_to_support_pct"": 0.39}",0.456,3564.1
+WIPRO,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 191.32, ""price_low_2"": 187.54, ""rsi_low_1"": 33.58, ""rsi_low_2"": 34.87}",0.197,191.6
+WIPRO,Support Bounce,bullish,2026-03-24,"{""support_20d"": 187.0, ""close"": 188.74, ""distance_to_support_pct"": 0.43}",0.426,191.6
+MARUTI,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 12591.0, ""price_low_2"": 12355.0, ""rsi_low_1"": 22.77, ""rsi_low_2"": 25.7}",0.238,12389.0
+MARUTI,Support Bounce,bullish,2026-03-24,"{""support_20d"": 12278.0, ""close"": 12464.0, ""distance_to_support_pct"": 0.44}",0.494,12389.0
+BAJAJFINSV,RSI Divergence (Bullish),bullish,2026-03-20,"{""price_low_1"": 1795.3, ""price_low_2"": 1710.3, ""rsi_low_1"": 18.82, ""rsi_low_2"": 21.01}",0.444,1694.7
+BAJAJFINSV,Support Bounce,bullish,2026-03-24,"{""support_20d"": 1662.7, ""close"": 1704.4, ""distance_to_support_pct"": 0.52}",0.596,1694.7
+BHARTIARTL,Support Bounce,bullish,2026-03-24,"{""support_20d"": 1770.9, ""close"": 1802.1, ""distance_to_support_pct"": 0.57}",0.497,1843.9
+ASIANPAINT,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 2196.8, ""price_low_2"": 2121.3, ""rsi_low_1"": 18.36, ""rsi_low_2"": 29.79}",0.618,2207.4
+ASIANPAINT,Support Bounce,bullish,2026-03-24,"{""support_20d"": 2115.0, ""close"": 2217.3, ""distance_to_support_pct"": 1.81}",0.618,2207.4
+JSWSTEEL,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 1119.3, ""price_low_2"": 1109.6, ""rsi_low_1"": 32.07, ""rsi_low_2"": 33.25}",0.105,1130.3
+JSWSTEEL,Support Bounce,bullish,2026-03-24,"{""support_20d"": 1102.5, ""close"": 1133.7, ""distance_to_support_pct"": 0.86}",0.567,1130.3
+BPCL,Support Bounce,bullish,2026-03-24,"{""support_20d"": 270.0, ""close"": 282.25, ""distance_to_support_pct"": 0.26}",0.893,282.7
+INDIGO,RSI Divergence (Bullish),bullish,2026-03-19,"{""price_low_1"": 4236.7, ""price_low_2"": 4154.3, ""rsi_low_1"": 23.16, ""rsi_low_2"": 27.23}",0.278,4099.5
+AXISBANK,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 1197.3, ""price_low_2"": 1170.6, ""rsi_low_1"": 20.84, ""rsi_low_2"": 22.47}",0.227,1205.2
+AXISBANK,Support Bounce,bullish,2026-03-24,"{""support_20d"": 1165.0, ""close"": 1192.7, ""distance_to_support_pct"": 0.39}",0.606,1205.2
+SBIN,RSI Divergence (Bullish),bullish,2026-03-27,"{""price_low_1"": 1047.0, ""price_low_2"": 1019.5, ""rsi_low_1"": 14.58, ""rsi_low_2"": 27.81}",0.607,1019.5
+SBIN,Support Bounce,bullish,2026-03-20,"{""support_20d"": 1036.1, ""close"": 1058.0, ""distance_to_support_pct"": 1.73}",0.308,1019.5
+BAJAJ-AUTO,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 8875.0, ""price_low_2"": 8776.0, ""rsi_low_1"": 31.15, ""rsi_low_2"": 32.98}",0.144,8901.0
+BAJAJ-AUTO,Support Bounce,bullish,2026-03-24,"{""support_20d"": 8742.5, ""close"": 8898.0, ""distance_to_support_pct"": 0.57}",0.5,8901.0
+EICHERMOT,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 6741.0, ""price_low_2"": 6681.5, ""rsi_low_1"": 28.02, ""rsi_low_2"": 29.17}",0.105,6811.5
+EICHERMOT,Support Bounce,bullish,2026-03-24,"{""support_20d"": 6643.5, ""close"": 6871.0, ""distance_to_support_pct"": 1.65}",0.481,6811.5
+HINDALCO,RSI Divergence (Bullish),bullish,2026-03-19,"{""price_low_1"": 921.8, ""price_low_2"": 897.05, ""rsi_low_1"": 39.79, ""rsi_low_2"": 41.19}",0.257,866.7
+HINDALCO,Support Bounce,bullish,2026-03-24,"{""support_20d"": 835.95, ""close"": 854.65, ""distance_to_support_pct"": 0.9}",0.488,866.7
+APOLLOHOSP,Support Bounce,bullish,2026-03-24,"{""support_20d"": 7080.0, ""close"": 7413.0, ""distance_to_support_pct"": 1.68}",0.628,7549.0
+NTPC,Support Bounce,bullish,2026-03-24,"{""support_20d"": 364.1, ""close"": 375.55, ""distance_to_support_pct"": 1.9}",0.398,375.65
+POWERGRID,Support Bounce,bullish,2026-03-27,"{""support_20d"": 285.5, ""close"": 295.5, ""distance_to_support_pct"": 1.68}",0.484,295.5
+M&M,RSI Divergence (Bullish),bullish,2026-03-12,"{""price_low_1"": 3334.3, ""price_low_2"": 3031.2, ""rsi_low_1"": 21.96, ""rsi_low_2"": 29.24}",0.946,3041.3
+HEROMOTOCO,RSI Divergence (Bullish),bullish,2026-03-12,"{""price_low_1"": 5465.0, ""price_low_2"": 5394.5, ""rsi_low_1"": 47.44, ""rsi_low_2"": 49.29}",0.159,5143.0
+HEROMOTOCO,Support Bounce,bullish,2026-03-24,"{""support_20d"": 5051.0, ""close"": 5253.0, ""distance_to_support_pct"": 1.46}",0.589,5143.0
+ULTRACEMCO,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 10616.0, ""price_low_2"": 10362.0, ""rsi_low_1"": 20.52, ""rsi_low_2"": 26.4}",0.368,11049.0
+ULTRACEMCO,Support Bounce,bullish,2026-03-24,"{""support_20d"": 10325.0, ""close"": 10764.0, ""distance_to_support_pct"": 1.42}",0.625,11049.0
+ADANIPORTS,Support Bounce,bullish,2026-03-24,"{""support_20d"": 1293.5, ""close"": 1344.2, ""distance_to_support_pct"": 1.55}",0.56,1337.8
+ADANIENT,Support Bounce,bullish,2026-03-25,"{""support_20d"": 1813.7, ""close"": 1886.6, ""distance_to_support_pct"": 1.41}",0.601,1823.0
+ITC,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 301.45, ""price_low_2"": 290.45, ""rsi_low_1"": 12.7, ""rsi_low_2"": 24.56}",0.648,294.7
+ITC,Support Bounce,bullish,2026-03-24,"{""support_20d"": 289.55, ""close"": 291.25, ""distance_to_support_pct"": 0.28}",0.415,294.7
+BRITANNIA,Support Bounce,bullish,2026-03-24,"{""support_20d"": 5475.5, ""close"": 5513.5, ""distance_to_support_pct"": 1.3}",0.224,5500.0
+YESBANK,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 18.54, ""price_low_2"": 17.65, ""rsi_low_1"": 20.25, ""rsi_low_2"": 22.91}",0.464,18.12
+YESBANK,Support Bounce,bullish,2026-03-24,"{""support_20d"": 17.56, ""close"": 18.07, ""distance_to_support_pct"": 1.71}",0.407,18.12
+UPL,RSI Divergence (Bullish),bullish,2026-03-27,"{""price_low_1"": 608.8, ""price_low_2"": 595.85, ""rsi_low_1"": 34.0, ""rsi_low_2"": 40.33}",0.36,595.85
+UPL,Support Bounce,bullish,2026-03-24,"{""support_20d"": 599.25, ""close"": 620.45, ""distance_to_support_pct"": 1.54}",0.517,595.85
+NESTLEIND,RSI Divergence (Bullish),bullish,2026-03-09,"{""price_low_1"": 1278.5, ""price_low_2"": 1235.8, ""rsi_low_1"": 32.42, ""rsi_low_2"": 35.73}",0.366,1193.2
+NESTLEIND,Support Bounce,bullish,2026-03-24,"{""support_20d"": 1164.8, ""close"": 1183.2, ""distance_to_support_pct"": 0.14}",0.562,1193.2
+GRASIM,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 2568.6, ""price_low_2"": 2531.1, ""rsi_low_1"": 26.59, ""rsi_low_2"": 34.2}",0.345,2628.2
+GRASIM,Support Bounce,bullish,2026-03-24,"{""support_20d"": 2502.5, ""close"": 2549.4, ""distance_to_support_pct"": 0.82}",0.461,2628.2
+HCLTECH,RSI Divergence (Bullish),bullish,2026-03-19,"{""price_low_1"": 1325.4, ""price_low_2"": 1311.8, ""rsi_low_1"": 27.84, ""rsi_low_2"": 34.72}",0.288,1364.4
+HCLTECH,Support Bounce,bullish,2026-03-23,"{""support_20d"": 1297.7, ""close"": 1358.6, ""distance_to_support_pct"": 0.95}",0.774,1364.4
+TITAN,Support Bounce,bullish,2026-03-24,"{""support_20d"": 3825.0, ""close"": 3899.5, ""distance_to_support_pct"": 0.47}",0.54,3981.5
+SBICARD,RSI Divergence (Bullish),bullish,2026-03-23,"{""price_low_1"": 693.85, ""price_low_2"": 653.3, ""rsi_low_1"": 12.91, ""rsi_low_2"": 18.69}",0.641,673.95
+SBICARD,Support Bounce,bullish,2026-03-24,"{""support_20d"": 650.05, ""close"": 673.5, ""distance_to_support_pct"": 1.43}",0.547,673.95
+GODREJCP,Support Bounce,bullish,2026-03-24,"{""support_20d"": 988.0, ""close"": 1006.9, ""distance_to_support_pct"": 1.12}",0.405,1008.7
+KOTAKBANK,Support Bounce,bullish,2026-03-24,"{""support_20d"": 355.25, ""close"": 366.85, ""distance_to_support_pct"": 1.73}",0.446,366.15
+HINDUNILVR,RSI Divergence (Bullish),bullish,2026-03-12,"{""price_low_1"": 2261.3, ""price_low_2"": 2136.9, ""rsi_low_1"": 28.07, ""rsi_low_2"": 29.68}",0.488,2074.4
+HINDUNILVR,Support Bounce,bullish,2026-03-24,"{""support_20d"": 2033.3, ""close"": 2085.0, ""distance_to_support_pct"": 1.61}",0.383,2074.4
+CIPLA,RSI Divergence (Bullish),bullish,2026-03-16,"{""price_low_1"": 1313.2, ""price_low_2"": 1300.0, ""rsi_low_1"": 40.62, ""rsi_low_2"": 41.02}",0.092,1242.3
+CIPLA,Support Bounce,bullish,2026-03-25,"{""support_20d"": 1216.6, ""close"": 1244.4, ""distance_to_support_pct"": 0.2}",0.635,1242.3
+BEL,Support Bounce,bullish,2026-03-24,"{""support_20d"": 404.0, ""close"": 414.45, ""distance_to_support_pct"": 1.18}",0.475,404.75
+SHRIRAMFIN,RSI Divergence (Bullish),bullish,2026-03-19,"{""price_low_1"": 987.2, ""price_low_2"": 949.8, ""rsi_low_1"": 31.5, ""rsi_low_2"": 31.76}",0.311,903.8

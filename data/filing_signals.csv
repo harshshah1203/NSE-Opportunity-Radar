@@ -1,0 +1,148 @@
+ticker,company_name,filing_date,signal,confidence,reason,event_type,urgency
+CIPLA,Cipla Limited,2026-03-28 00:00:00,neutral,0.5,The filing is a routine corporate action with no significant financial impact.,other,low
+NTPC,NTPC Limited,2026-03-28 00:00:00,bullish,0.7,Investment in Battery Energy Storage System indicates a positive outlook for NTPC's renewable energy initiatives.,acquisition,medium
+GRASIM,Grasim Industries Limited,2026-03-28 00:00:00,neutral,0.5,Postal ballot results do not typically have a significant impact on stock price.,other,low
+BHARTIARTL,Bharti Airtel Limited,2026-03-28 00:00:00,neutral,0.5,No specific information is provided about the action taken or orders passed by Bharti Airtel Limited.,other,low
+TATASTEEL,Tata Steel Limited,2026-03-28 00:00:00,bearish,0.7,"Tata Steel Limited has informed about pendency of litigation, which may negatively impact the company's financials.",regulatory,high
+SUNPHARMA,Sun Pharmaceutical Industries Limited,2026-03-28 00:00:00,neutral,0.5,General updates on Fibromun and Nidlegy do not typically have a significant impact on stock price.,other,low
+COALINDIA,Coal India Limited,2026-03-28 00:00:00,neutral,0.5,Change in Director(s) is a neutral event with no clear impact on the company's financials.,management_change,low
+COALINDIA,Coal India Limited,2026-03-28 00:00:00,bullish,0.7,Receipt of a Letter of Award from Telangana Power Generation Corporation Limited is a positive development for Coal India Limited.,acquisition,medium
+HDFCBANK,HDFC Bank Limited,2026-03-28 00:00:00,neutral,0.5,No significant information was disclosed in the filing.,other,low
+GRASIM,Grasim Industries Limited,2026-03-28 00:00:00,neutral,0.5,Shareholders meeting is a routine event and does not typically have a significant impact on stock price.,shareholders_meeting,low
+ONGC,Oil & Natural Gas Corporation Limited,2026-03-28 00:00:00,neutral,0.5,Cessation of a non-executive director is a neutral event with moderate impact.,management_change,low
+BPCL,Bharat Petroleum Corporation Limited,2026-03-28 00:00:00,neutral,0.5,No significant information was disclosed in the filing.,other,low
+NTPC,NTPC Limited,2026-03-28 00:00:00,neutral,0.6,The company's announcement of COD of a stepdown subsidiary is a neutral event with moderate impact.,other,low
+NTPC,NTPC Limited,2026-03-28 00:00:00,neutral,0.5,Acquisition announcement may have a neutral impact on the stock price as it depends on the terms and conditions of the deal.,acquisition,medium
+ONGC,Oil & Natural Gas Corporation Limited,2026-03-28 00:00:00,neutral,0.5,Cessation of a non-executive director is a neutral event with moderate impact.,management_change,low
+ONGC,Oil & Natural Gas Corporation Limited,2026-03-28 00:00:00,neutral,0.5,Cessation of a non-executive director is a neutral event with moderate impact.,management_change,low
+BPCL,Bharat Petroleum Corporation Limited,2026-03-28 00:00:00,neutral,0.5,Change in Director(s) is a neutral event with no clear impact on the company's financials.,management_change,low
+INDIGO,InterGlobe Aviation Limited,2026-03-27 00:00:00,neutral,0.5,Trading window closure is a routine event and does not necessarily indicate any significant company news.,regulatory,low
+LT,Larsen & Toubro Limited,2026-03-27 00:00:00,neutral,0.5,Larsen & Toubro Limited has informed the Exchange about a routine business activity.,other,low
+COALINDIA,Coal India Limited,2026-03-27 00:00:00,neutral,0.5,"The company is forming a joint venture, which may have a neutral impact on the stock price.",acquisition,medium
+SUNPHARMA,Sun Pharmaceutical Industries Limited,2026-03-27 00:00:00,neutral,0.5,"The company announced research advancements in Alopecia Areata, Psoriasis, and Acne, but no significant financial or operational updates.",other,low
+POWERGRID,Power Grid Corporation of India Limited,2026-03-27 00:00:00,neutral,0.5,"The company has successfully commissioned a project, but the filing does not provide specific financial or operational details.",other,low
+SBIN,State Bank of India,2026-03-27 00:00:00,neutral,0.8,Trading window closure is a routine event and does not directly impact the company's financial performance.,regulatory,low
+BEL,Bharat Electronics Limited,2026-03-27 00:00:00,neutral,0.5,Trading window closure does not directly impact stock price but may indicate upcoming events.,regulatory,low
+SBIN,State Bank of India,2026-03-27 00:00:00,neutral,0.5,Shareholders meeting is a routine event and does not typically impact stock price significantly.,other,low
+BPCL,Bharat Petroleum Corporation Limited,2026-03-27 00:00:00,neutral,0.5,"The company has informed about a shareholders meeting, which is a routine corporate event.",management_change,low
+JSWSTEEL,JSW Steel Limited,2026-03-27 00:00:00,neutral,0.6,The company's announcement of a 50:50 JV with JFE Steel Corporation is a neutral event with moderate impact on the stock price.,acquisition,medium
+BAJAJ-AUTO,Bajaj Auto Limited,2026-03-27 00:00:00,neutral,0.5,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+KOTAKBANK,Kotak Mahindra Bank Limited,2026-03-27 00:00:00,neutral,0.5,"The filing is a routine rumour verification, which does not provide any significant information about the company's performance or future prospects.",other,low
+KOTAKBANK,Kotak Mahindra Bank Limited,2026-03-27 00:00:00,bearish,0.8,"The company is facing an alleged Rs 160-crore FD fraud, which may negatively impact investor sentiment.",regulatory,high
+TCS,Tata Consultancy Services Limited,2026-03-27 00:00:00,neutral,0.5,No significant financial information was disclosed in the filing.,other,low
+BRITANNIA,Britannia Industries Limited,2026-03-27 00:00:00,neutral,0.5,"Change in management is a neutral event, but may impact company's sales strategy.",management_change,low
+MARUTI,Maruti Suzuki India Limited,2026-03-27 00:00:00,neutral,0.5,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,2026-03-27 00:00:00,bullish,0.8,Positive media release about maritime safety initiatives.,other,medium
+BRITANNIA,Britannia Industries Limited,2026-03-27 00:00:00,neutral,0.5,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+JSWSTEEL,JSW Steel Limited,2026-03-27 00:00:00,neutral,0.8,"Trading window closure indicates no insider information is being used for trading, but may impact investor sentiment.",regulatory,low
+EICHERMOT,Eicher Motors Limited,2026-03-27 00:00:00,neutral,0.5,"The filing is a press release announcing a new product launch, which is a neutral event.",other,low
+GODREJCP,Godrej Consumer Products Limited,2026-03-27 00:00:00,neutral,0.5,Trading window closure is a routine event with no direct impact on the company's financials.,regulatory,low
+HDFCBANK,HDFC Bank Limited,2026-03-27 00:00:00,neutral,0.5,Shareholders meeting is a routine event and does not typically impact stock price significantly.,other,low
+INDIGO,InterGlobe Aviation Limited,2026-03-26 00:00:00,neutral,0.5,No specific information is provided about the actions taken or orders passed by InterGlobe Aviation Limited.,other,low
+BAJAJ-AUTO,Bajaj Auto Limited,2026-03-26 00:00:00,neutral,0.6,"Bajaj Auto's step-down subsidiary Bajaj Mobility AG reported successful turnaround and record motorsport season, but no direct impact on Bajaj Auto's financials.",other,low
+ULTRACEMCO,UltraTech Cement Limited,2026-03-26 00:00:00,neutral,0.5,"The company has informed about settlement proceedings, which is a neutral event.",other,low
+ULTRACEMCO,UltraTech Cement Limited,2026-03-26 00:00:00,neutral,0.5,"No specific event details provided, indicating a neutral signal.",other,low
+ASIANPAINT,Asian Paints Limited,2026-03-26 00:00:00,neutral,0.5,Change in auditors is a neutral event with no significant impact on the company's financials.,regulatory,low
+EICHERMOT,Eicher Motors Limited,2026-03-26 00:00:00,neutral,0.5,Trading window closure is a routine event and does not necessarily indicate any significant company activity.,regulatory,low
+DRREDDY,Dr. Reddy's Laboratories Limited,2026-03-26 00:00:00,neutral,0.6,The company's employee stock option allotment is a routine corporate action with limited market impact.,other,low
+HCLTECH,HCL Technologies Limited,2026-03-26 00:00:00,neutral,0.5,"The company has announced recognition for sustainability initiatives, but no financial impact is mentioned.",other,low
+BAJAJFINSV,Bajaj Finserv Limited,2026-03-26 00:00:00,neutral,0.5,Trading window closure has no direct impact on the company's financials.,regulatory,low
+YESBANK,Yes Bank Limited,2026-03-26 00:00:00,neutral,0.5,General updates do not typically have a significant impact on stock price,other,low
+HDFCBANK,HDFC Bank Limited,2026-03-26 00:00:00,neutral,0.5,Change in Director(s) is a neutral event as it may not directly impact the company's financial performance.,management_change,low
+CIPLA,Cipla Limited,2026-03-26 00:00:00,neutral,0.7,Shareholders meeting and voting results announcement is a routine corporate event with limited market impact.,other,low
+GODREJCP,Godrej Consumer Products Limited,2026-03-26 00:00:00,neutral,0.5,Appointment of a new director is a neutral event with no immediate impact on the company's financials.,management_change,low
+RELIANCE,Reliance Industries Limited,2026-03-26 00:00:00,neutral,0.5,"The company has filed a routine statement update, which does not indicate any significant event.",other,low
+CIPLA,Cipla Limited,2026-03-26 00:00:00,bearish,0.8,Key management personnel resignation may impact company's future direction and performance.,management_change,high
+BHARTIARTL,Bharti Airtel Limited,2026-03-26 00:00:00,neutral,0.8,Trading window closure is a routine event and does not necessarily indicate significant company activity.,regulatory,low
+BHARTIARTL,Bharti Airtel Limited,2026-03-26 00:00:00,neutral,0.5,"No significant information was provided in the filing, indicating a neutral stance.",other,low
+YESBANK,Yes Bank Limited,2026-03-26 00:00:00,neutral,0.5,Trading window closure is a routine event and does not necessarily indicate any significant development in the company.,regulatory,low
+YESBANK,Yes Bank Limited,2026-03-26 00:00:00,neutral,0.5,No significant financial information was disclosed in the filing.,other,low
+KOTAKBANK,Kotak Mahindra Bank Limited,2026-03-26 00:00:00,neutral,0.5,The filing is a copy of a newspaper publication and does not contain any material information.,other,low
+ITC,ITC Limited,2026-03-26 00:00:00,neutral,0.8,The dissolution of a step-down subsidiary is a non-material event with limited impact on the company's financials.,other,low
+JSWSTEEL,JSW Steel Limited,2026-03-25 00:00:00,bullish,0.8,The acquisition of a significant equity stake in Minas de Revuboe Limitada indicates a strategic expansion for JSW Steel Limited.,acquisition,high
+ICICIBANK,ICICI Bank Limited,2026-03-25 00:00:00,neutral,0.5,"The company has informed the exchange about ESOP/ESOS/ESPS allotment, which is a neutral event.",other,low
+ICICIBANK,ICICI Bank Limited,2026-03-25 00:00:00,neutral,0.5,General updates do not typically have a significant impact on stock price.,other,low
+ICICIBANK,ICICI Bank Limited,2026-03-25 00:00:00,neutral,0.5,General updates filing does not provide significant information that would impact the stock price.,other,low
+TITAN,Titan Company Limited,2026-03-25 00:00:00,neutral,0.5,Appointment of a new independent director may have a neutral impact on the company's stock price.,management_change,low
+SHRIRAMFIN,Shriram Finance Limited,2026-03-25 00:00:00,neutral,0.8,"The company received approval for a proposed investment, which is a neutral event.",acquisition,low
+SBICARD,SBI Cards and Payment Services Limited,2026-03-25 00:00:00,neutral,0.5,Trading window closure is a routine event and does not typically impact stock price.,regulatory,low
+MARUTI,Maruti Suzuki India Limited,2026-03-25 00:00:00,neutral,0.5,General updates do not typically have a significant impact on stock price,other,low
+ITC,ITC Limited,2026-03-25 00:00:00,neutral,0.5,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+SHRIRAMFIN,Shriram Finance Limited,2026-03-25 00:00:00,neutral,0.5,The filing is a routine corporate action and does not indicate any significant financial or operational changes.,other,low
+AXISBANK,Axis Bank Limited,2026-03-25 00:00:00,neutral,0.5,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+TITAN,Titan Company Limited,2026-03-25 00:00:00,neutral,0.5,Change in management personnel is a neutral event with limited impact on the company's financials.,management_change,low
+TATASTEEL,Tata Steel Limited,2026-03-25 00:00:00,neutral,0.5,"Tata Steel Limited has informed about a pending litigation, which may have a neutral impact on the stock price.",regulatory,medium
+AUROPHARMA,Aurobindo Pharma Limited,2026-03-25 00:00:00,neutral,0.5,Aurobindo Pharma's entry into a marketing agreement is a neutral event with no significant impact on the company's financials.,other,low
+ULTRACEMCO,UltraTech Cement Limited,2026-03-25 00:00:00,neutral,0.5,No significant financial impact mentioned in the filing.,regulatory,low
+ADANIENT,Adani Enterprises Limited,2026-03-25 00:00:00,neutral,0.8,Early redemption of NCDs is a neutral event with no significant impact on the company's financials.,other,low
+TATASTEEL,Tata Steel Limited,2026-03-25 00:00:00,neutral,0.0,No significant information was provided in the filing.,other,low
+INFY,Infosys Limited,2026-03-25 00:00:00,bearish,0.7,"Infosys is acquiring another company, which may dilute shareholder value.",acquisition,high
+LT,Larsen & Toubro Limited,2026-03-25 00:00:00,neutral,0.5,"Larsen & Toubro Limited has informed the Exchange about a routine business update, which is not typically a market-moving event.",other,low
+SUNPHARMA,Sun Pharmaceutical Industries Limited,2026-03-25 00:00:00,neutral,0.5,Trading window closure does not directly impact stock price but may indicate upcoming events.,regulatory,low
+INFY,Infosys Limited,2026-03-25 00:00:00,bullish,0.8,"Infosys has been recognized as a leader in AI technical services, indicating strong market position and potential for future growth.",other,medium
+INFY,Infosys Limited,2026-03-25 00:00:00,neutral,0.5,The company's announcement of a new partnership is neutral as it does not directly impact the company's financials.,other,low
+POWERGRID,Power Grid Corporation of India Limited,2026-03-24 00:00:00,neutral,0.5,No significant financial information was disclosed in the filing.,other,low
+M&M,Mahindra & Mahindra Limited,2026-03-24 00:00:00,neutral,0.5,Board meeting to consider dividend has no significant impact on stock price,management_change,low
+M&M,Mahindra & Mahindra Limited,2026-03-24 00:00:00,neutral,0.5,Transfer of equity shares by employees' stock option trust is a routine corporate action.,other,low
+M&M,Mahindra & Mahindra Limited,2026-03-24 00:00:00,neutral,0.5,"Trading window closure indicates no insider information is being used for trading, but does not necessarily impact stock price.",regulatory,low
+AXISBANK,Axis Bank Limited,2026-03-24 00:00:00,neutral,0.5,ESOP/ESOS/ESPS allotment is a neutral event as it does not directly impact earnings or cash flow.,other,low
+ADANIENT,Adani Enterprises Limited,2026-03-24 00:00:00,bullish,0.8,The acquisition of IANS India Private Limited is expected to enhance Adani Enterprises' media and communications capabilities.,acquisition,medium
+NESTLEIND,Nestle India Limited,2026-03-24 00:00:00,neutral,0.5,Trading window closure is a routine event and does not necessarily indicate any significant company news.,regulatory,low
+HCLTECH,HCL Technologies Limited,2026-03-24 00:00:00,neutral,0.8,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+SBIN,State Bank of India,2026-03-24 00:00:00,neutral,0.5,"The filing type 'Updates' does not provide significant information, so the signal is neutral.",other,low
+TITAN,Titan Company Limited,2026-03-24 00:00:00,neutral,0.6,The company's shareholders meeting and voting results do not indicate any significant changes or surprises.,other,low
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,2026-03-24 00:00:00,neutral,0.5,Trading window closure is a routine event and does not necessarily indicate any significant company news.,regulatory,low
+DRREDDY,Dr. Reddy's Laboratories Limited,2026-03-24 00:00:00,neutral,0.7,"The company has revised its code of practices for fair disclosures, which is a regulatory requirement.",regulatory,low
+ASIANPAINT,Asian Paints Limited,2026-03-24 00:00:00,bearish,0.7,Amalgamation/Merger may lead to short-term market volatility and potential decline in stock price.,acquisition,high
+ADANIENT,Adani Enterprises Limited,2026-03-24 00:00:00,neutral,0.8,The company's early full redemption of Non-Convertible Debentures is a neutral event with no significant impact on the company's financials.,other,low
+WIPRO,Wipro Limited,2026-03-24 00:00:00,neutral,0.5,Grant of Restricted Stock Units is a neutral event as it does not directly impact the company's financial performance.,other,low
+MARUTI,Maruti Suzuki India Limited,2026-03-24 00:00:00,neutral,0.6,Capacity addition is a neutral event with moderate impact on the company's operations.,other,low
+ITC,ITC Limited,2026-03-24 00:00:00,neutral,0.5,No significant information was disclosed in the filing.,other,low
+LT,Larsen & Toubro Limited,2026-03-24 00:00:00,neutral,0.5,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+WIPRO,Wipro Limited,2026-03-23 00:00:00,bullish,0.8,Wipro's expansion in South Korea indicates growth opportunities,acquisition,medium
+DRREDDY,Dr. Reddy's Laboratories Limited,2026-03-23 00:00:00,neutral,0.5,Trading window closure is a routine event and does not necessarily indicate any significant development.,regulatory,low
+GRASIM,Grasim Industries Limited,2026-03-23 00:00:00,neutral,0.8,Trading window closure is a routine event and does not necessarily indicate any significant company activity.,regulatory,low
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,2026-03-23 00:00:00,neutral,0.5,General updates are typically neutral events with little to no impact on stock price.,other,low
+POWERGRID,Power Grid Corporation of India Limited,2026-03-23 00:00:00,neutral,0.5,Trading window closure is a routine event and does not typically impact stock price.,regulatory,low
+NESTLEIND,Nestle India Limited,2026-03-23 00:00:00,neutral,0.5,No significant financial information was disclosed in the general update.,other,low
+INDIGO,InterGlobe Aviation Limited,2026-03-23 00:00:00,neutral,0.8,Appointment of a new Chief Strategy Officer may have a neutral impact on the company's stock price.,management_change,low
+HEROMOTOCO,Hero MotoCorp Limited,2026-03-23 00:00:00,neutral,0.5,Trading window closure does not directly impact stock price but may indicate upcoming events.,regulatory,low
+HINDALCO,Hindalco Industries Limited,2026-03-23 00:00:00,neutral,0.5,Trading window closure is a routine event and does not necessarily indicate a significant change in the company's financials.,regulatory,low
+AUROPHARMA,Aurobindo Pharma Limited,2026-03-23 00:00:00,neutral,0.5,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",regulatory,low
+SBICARD,SBI Cards and Payment Services Limited,2026-03-22 00:00:00,neutral,0.5,ESOP/ESOS/ESPS allotment is a neutral event as it does not directly impact revenue or earnings.,other,low
+HCLTECH,HCL Technologies Limited,2026-03-20 00:00:00,neutral,0.5,The filing is a routine update with no significant financial or operational implications.,other,low
+SHRIRAMFIN,Shriram Finance Limited,2026-03-20 00:00:00,neutral,0.5,No significant financial information was disclosed in the filing.,other,low
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,2026-03-20 00:00:00,neutral,0.5,General updates are typically neutral and do not have a significant impact on the stock price.,other,low
+AUROPHARMA,Aurobindo Pharma Limited,2026-03-20 00:00:00,neutral,0.5,General updates do not typically have a significant impact on stock price,other,low
+WIPRO,Wipro Limited,2026-03-20 00:00:00,bullish,0.8,"Wipro launches AI-DC solution to accelerate enterprise-scale AI adoption, indicating potential growth opportunities.",other,medium
+TCS,Tata Consultancy Services Limited,2026-03-20 00:00:00,neutral,0.5,"TCS extends strategic partnership with Swissport, no significant financial impact expected.",other,low
+HINDUNILVR,Hindustan Unilever Limited,2026-03-20 00:00:00,neutral,0.5,"The company provided a clarification under Regulation 30, which is a routine regulatory update.",regulatory,low
+TCS,Tata Consultancy Services Limited,2026-03-19 00:00:00,neutral,0.5,"TCS announced a partnership with ABB, which may have a neutral impact on the stock price.",other,low
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,2026-03-19 00:00:00,neutral,0.5,"Company has informed about a resolution plan for Jaiprakash Associates Limited, but no specific details are provided.",acquisition,low
+ASIANPAINT,Asian Paints Limited,2026-03-19 00:00:00,neutral,0.8,"Trading plan under PIT indicates no insider information, but may impact trading activity",regulatory,medium
+NESTLEIND,Nestle India Limited,2026-03-19 00:00:00,bullish,0.8,Capacity addition suggests increased production capacity and potential revenue growth,other,medium
+HEROMOTOCO,Hero MotoCorp Limited,2026-03-19 00:00:00,neutral,0.6,Appointment of Senior Management Personnel is a neutral event with moderate impact on the company's operations.,management_change,low
+BAJAJ-AUTO,Bajaj Auto Limited,2026-03-18 00:00:00,neutral,0.5,Re-appointment of a Whole-time Director is a routine corporate action with no significant impact on the company's financials.,management_change,low
+GODREJCP,Godrej Consumer Products Limited,2026-03-18 00:00:00,neutral,0.5,No significant earnings or insider activity was reported in the filing.,other,low
+SBICARD,SBI Cards and Payment Services Limited,2026-03-18 00:00:00,neutral,0.5,No significant financial information was disclosed in the filing.,other,low
+RELIANCE,Reliance Industries Limited,2026-03-18 00:00:00,neutral,0.5,Disclosure under Regulation 30 is a routine filing and does not indicate any significant event.,regulatory,low
+AXISBANK,Axis Bank Limited,2026-03-18 00:00:00,neutral,0.5,General updates are typically neutral events with little impact on stock price.,other,low
+BEL,Bharat Electronics Limited,2026-03-17 00:00:00,bullish,0.7,"The company has received new orders, indicating potential revenue growth.",other,medium
+TECHM,Tech Mahindra Limited,2026-03-17 00:00:00,neutral,0.5,ESOP allotment is a neutral event as it does not directly impact the company's financial performance.,insider_trade,low
+TECHM,Tech Mahindra Limited,2026-03-17 00:00:00,bullish,0.8,Acquisitions can boost a company's growth prospects and increase investor confidence.,acquisition,medium
+HEROMOTOCO,Hero MotoCorp Limited,2026-03-17 00:00:00,neutral,0.6,No significant financial or operational impact mentioned in the filing.,regulatory,low
+RELIANCE,Reliance Industries Limited,2026-03-16 00:00:00,bullish,0.8,"Reliance Industries signed a landmark green ammonia agreement with Samsung C&T, indicating a significant expansion in its renewable energy business.",acquisition,high
+HINDUNILVR,Hindustan Unilever Limited,2026-03-16 00:00:00,neutral,0.5,Grant of stock options under performance share plan is a neutral event with no significant impact on the company's financials.,other,low
+HINDALCO,Hindalco Industries Limited,2026-03-15 00:00:00,neutral,0.5,"The company is clarifying a news article, which does not necessarily indicate a significant event.",other,low
+BRITANNIA,Britannia Industries Limited,2026-03-15 00:00:00,neutral,0.6,Appointment of new CEO and MD is a neutral event as it does not directly impact short-term financials.,management_change,low
+HINDUNILVR,Hindustan Unilever Limited,2026-03-13 00:00:00,neutral,0.8,"Trading window closure indicates no insider information, but may impact trading activity.",regulatory,medium
+HINDALCO,Hindalco Industries Limited,2026-03-12 00:00:00,bearish,0.7,Hindalco Industries Limited's subsidiary Novelis Inc. entering a Material Definitive Agreement may indicate potential risks or uncertainties.,acquisition,medium
+BAJAJFINSV,Bajaj Finserv Limited,2026-03-12 00:00:00,bullish,0.8,Acquisition of 26% equity stake by Bajaj Finserv in its insurance subsidiaries is a positive development.,acquisition,high
+EICHERMOT,Eicher Motors Limited,2026-03-10 00:00:00,neutral,0.5,Appointment of new management does not necessarily impact company's financial performance,management_change,medium
+TECHM,Tech Mahindra Limited,2026-03-10 00:00:00,bearish,0.7,"The company's insider is selling shares, which may indicate a loss of confidence in the company's future prospects.",insider_trade,high
+UPL,UPL Limited,2026-03-10 00:00:00,neutral,0.0,No significant information was provided in the filing.,other,low
+UPL,UPL Limited,2026-03-09 00:00:00,neutral,0.5,"The company is holding an extraordinary general meeting, which may lead to changes in the company's strategy or operations.",management_change,medium
+BAJAJFINSV,Bajaj Finserv Limited,2026-03-09 00:00:00,neutral,0.5,"The filing is an update on unlisted insurance subsidiaries, which may not have a significant impact on the company's financials.",regulatory,low
+UPL,UPL Limited,2026-03-04 00:00:00,neutral,0.5,"The company is uploading documents for a scheme of arrangement, which may not have a significant impact on the stock price.",other,low
+BEL,Bharat Electronics Limited,2026-03-02 00:00:00,neutral,0.5,Record date announcement is a neutral event as it does not directly impact the company's financial performance.,other,low
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,2026-02-14 00:00:00,neutral,0.5,No significant price movement or earnings impact expected from the analyst/institutional investor meet.,other,low

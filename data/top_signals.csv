@@ -1,0 +1,51 @@
+ticker,final_score,filing_signal,anomaly_type,top_reason,score_breakdown
+RELIANCE,0.6053,bullish,price_move,"Reliance Industries signed a landmark green ammonia agreement with Samsung C&T, indicating a significant expansion in its renewable energy business.",filing=+0.80*0.65; urgency=0.30*0.10; anomaly=0.22*0.25
+ADANIENT,0.5838,bullish,"price_move, oversold",The acquisition of IANS India Private Limited is expected to enhance Adani Enterprises' media and communications capabilities.,filing=+0.80*0.65; urgency=0.15*0.10; anomaly=0.20*0.25
+JSWSTEEL,0.55,bullish,,The acquisition of a significant equity stake in Minas de Revuboe Limitada indicates a strategic expansion for JSW Steel Limited.,filing=+0.80*0.65; urgency=0.30*0.10; anomaly=0.00*0.25
+BAJAJFINSV,0.55,bullish,,Acquisition of 26% equity stake by Bajaj Finserv in its insurance subsidiaries is a positive development.,filing=+0.80*0.65; urgency=0.30*0.10; anomaly=0.00*0.25
+ADANIPORTS,0.535,bullish,,Positive media release about maritime safety initiatives.,filing=+0.80*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+WIPRO,0.535,bullish,,Wipro's expansion in South Korea indicates growth opportunities,filing=+0.80*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+NESTLEIND,0.535,bullish,,Capacity addition suggests increased production capacity and potential revenue growth,filing=+0.80*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+BEL,0.5075,bullish,oversold,"The company has received new orders, indicating potential revenue growth.",filing=+0.70*0.65; urgency=0.15*0.10; anomaly=0.15*0.25
+COALINDIA,0.47,bullish,,Receipt of a Letter of Award from Telangana Power Generation Corporation Limited is a positive development for Coal India Limited.,filing=+0.70*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+NTPC,0.47,bullish,,Investment in Battery Energy Storage System indicates a positive outlook for NTPC's renewable energy initiatives.,filing=+0.70*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+SBICARD,0.1015,neutral,"volume_spike, price_move",Trading window closure is a routine event and does not typically impact stock price.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.41*0.25
+ONGC,0.0895,neutral,"volume_spike, price_move",Cessation of a non-executive director is a neutral event with moderate impact.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.36*0.25
+BPCL,0.0808,neutral,"volume_spike, oversold",No significant information was disclosed in the filing.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.32*0.25
+YESBANK,0.0765,neutral,volume_spike,General updates do not typically have a significant impact on stock price,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.31*0.25
+SHRIRAMFIN,0.0685,neutral,price_move,"The company received approval for a proposed investment, which is a neutral event.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.27*0.25
+UPL,0.0662,neutral,price_move,"The company is holding an extraordinary general meeting, which may lead to changes in the company's strategy or operations.",filing=+0.00*0.65; urgency=0.15*0.10; anomaly=0.20*0.25
+BHARTIARTL,0.0655,neutral,volume_spike,Trading window closure is a routine event and does not necessarily indicate significant company activity.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.26*0.25
+HCLTECH,0.064,neutral,volume_spike,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.26*0.25
+GRASIM,0.0568,neutral,volume_spike,Trading window closure is a routine event and does not necessarily indicate any significant company activity.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.23*0.25
+SBIN,0.0462,neutral,"price_move, oversold",Trading window closure is a routine event and does not directly impact the company's financial performance.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.18*0.25
+HDFCBANK,0.0462,neutral,"price_move, oversold",No significant information was disclosed in the filing.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.18*0.25
+MARUTI,0.0442,neutral,oversold,Capacity addition is a neutral event with moderate impact on the company's operations.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.18*0.25
+INDIGO,0.042,neutral,price_move,Appointment of a new Chief Strategy Officer may have a neutral impact on the company's stock price.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.17*0.25
+BRITANNIA,0.0305,neutral,oversold,Appointment of new CEO and MD is a neutral event as it does not directly impact short-term financials.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.12*0.25
+HINDUNILVR,0.015,neutral,,"Trading window closure indicates no insider information, but may impact trading activity.",filing=+0.00*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+EICHERMOT,0.015,neutral,,Appointment of new management does not necessarily impact company's financial performance,filing=+0.00*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+TCS,0.0138,neutral,oversold,No significant financial information was disclosed in the filing.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.06*0.25
+TATAMOTORS,0.0,,,No reason available.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+ULTRACEMCO,0.0,neutral,,"The company has informed about settlement proceedings, which is a neutral event.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+ITC,0.0,neutral,,The dissolution of a step-down subsidiary is a non-material event with limited impact on the company's financials.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+LT,0.0,neutral,,Larsen & Toubro Limited has informed the Exchange about a routine business activity.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+ICICIBANK,0.0,neutral,,"The company has informed the exchange about ESOP/ESOS/ESPS allotment, which is a neutral event.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+SUNPHARMA,0.0,neutral,,General updates on Fibromun and Nidlegy do not typically have a significant impact on stock price.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+AXISBANK,0.0,neutral,,"Trading window closure does not directly impact stock price, but may indicate upcoming events.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+DRREDDY,0.0,neutral,,"The company has revised its code of practices for fair disclosures, which is a regulatory requirement.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+AUROPHARMA,0.0,neutral,,Aurobindo Pharma's entry into a marketing agreement is a neutral event with no significant impact on the company's financials.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+TITAN,0.0,neutral,,The company's shareholders meeting and voting results do not indicate any significant changes or surprises.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+HEROMOTOCO,0.0,neutral,,Appointment of Senior Management Personnel is a neutral event with moderate impact on the company's operations.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+POWERGRID,0.0,neutral,,"The company has successfully commissioned a project, but the filing does not provide specific financial or operational details.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+APOLLOHOSP,0.0,neutral,,Trading window closure is a routine event and does not necessarily indicate any significant company news.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+M&M,0.0,neutral,,Board meeting to consider dividend has no significant impact on stock price,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+BAJAJ-AUTO,0.0,neutral,,"Bajaj Auto's step-down subsidiary Bajaj Mobility AG reported successful turnaround and record motorsport season, but no direct impact on Bajaj Auto's financials.",filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+GODREJCP,0.0,neutral,,Trading window closure is a routine event with no direct impact on the company's financials.,filing=+0.00*0.65; urgency=0.00*0.10; anomaly=0.00*0.25
+ASIANPAINT,-0.425,bearish,,Amalgamation/Merger may lead to short-term market volatility and potential decline in stock price.,filing=-0.70*0.65; urgency=0.30*0.10; anomaly=0.00*0.25
+INFY,-0.425,bearish,,"Infosys is acquiring another company, which may dilute shareholder value.",filing=-0.70*0.65; urgency=0.30*0.10; anomaly=0.00*0.25
+TATASTEEL,-0.425,bearish,,"Tata Steel Limited has informed about pendency of litigation, which may negatively impact the company's financials.",filing=-0.70*0.65; urgency=0.30*0.10; anomaly=0.00*0.25
+TECHM,-0.425,bearish,,"The company's insider is selling shares, which may indicate a loss of confidence in the company's future prospects.",filing=-0.70*0.65; urgency=0.30*0.10; anomaly=0.00*0.25
+HINDALCO,-0.44,bearish,,Hindalco Industries Limited's subsidiary Novelis Inc. entering a Material Definitive Agreement may indicate potential risks or uncertainties.,filing=-0.70*0.65; urgency=0.15*0.10; anomaly=0.00*0.25
+CIPLA,-0.4695,bearish,oversold,Key management personnel resignation may impact company's future direction and performance.,filing=-0.80*0.65; urgency=0.30*0.10; anomaly=0.08*0.25
+KOTAKBANK,-0.49,bearish,,"The company is facing an alleged Rs 160-crore FD fraud, which may negatively impact investor sentiment.",filing=-0.80*0.65; urgency=0.30*0.10; anomaly=0.00*0.25
