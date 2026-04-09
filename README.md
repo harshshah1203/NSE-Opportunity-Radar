@@ -6,7 +6,6 @@
 [![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-> **ET AI Hackathon 2026 — Problem Statement 6: AI for the Indian Investor**
 
 ---
 
